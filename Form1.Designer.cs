@@ -51,7 +51,7 @@ namespace protypeprototype
             this.listBox1.ItemHeight = 16;
             this.listBox1.Location = new System.Drawing.Point(338, 28);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(434, 356);
+            this.listBox1.Size = new System.Drawing.Size(578, 356);
             this.listBox1.TabIndex = 2;
             // 
             // button2
@@ -78,7 +78,7 @@ namespace protypeprototype
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1040, 485);
             this.Controls.Add(this.refresh);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.listBox1);

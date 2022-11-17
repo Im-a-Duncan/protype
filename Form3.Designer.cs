@@ -52,7 +52,7 @@ namespace protypeprototype
             this.cancel.Location = new System.Drawing.Point(420, 327);
             this.cancel.Name = "cancel";
             this.cancel.Size = new System.Drawing.Size(181, 69);
-            this.cancel.TabIndex = 41;
+            this.cancel.TabIndex = 8;
             this.cancel.Text = "Cancel";
             this.cancel.UseVisualStyleBackColor = true;
             this.cancel.Click += new System.EventHandler(this.cancel_Click);
@@ -62,7 +62,7 @@ namespace protypeprototype
             this.submit.Location = new System.Drawing.Point(202, 327);
             this.submit.Name = "submit";
             this.submit.Size = new System.Drawing.Size(181, 69);
-            this.submit.TabIndex = 40;
+            this.submit.TabIndex = 7;
             this.submit.Text = "Submit";
             this.submit.UseVisualStyleBackColor = true;
             this.submit.Click += new System.EventHandler(this.submit_Click);
@@ -126,49 +126,49 @@ namespace protypeprototype
             this.typein.Location = new System.Drawing.Point(202, 164);
             this.typein.Name = "typein";
             this.typein.Size = new System.Drawing.Size(399, 22);
-            this.typein.TabIndex = 33;
+            this.typein.TabIndex = 3;
             // 
             // purchasein
             // 
             this.purchasein.Location = new System.Drawing.Point(202, 254);
             this.purchasein.Name = "purchasein";
             this.purchasein.Size = new System.Drawing.Size(399, 22);
-            this.purchasein.TabIndex = 32;
+            this.purchasein.TabIndex = 5;
             // 
             // notesin
             // 
             this.notesin.Location = new System.Drawing.Point(202, 299);
             this.notesin.Name = "notesin";
             this.notesin.Size = new System.Drawing.Size(399, 22);
-            this.notesin.TabIndex = 31;
+            this.notesin.TabIndex = 6;
             // 
             // ipin
             // 
             this.ipin.Location = new System.Drawing.Point(202, 209);
             this.ipin.Name = "ipin";
             this.ipin.Size = new System.Drawing.Size(399, 22);
-            this.ipin.TabIndex = 30;
+            this.ipin.TabIndex = 4;
             // 
             // manufacturerin
             // 
             this.manufacturerin.Location = new System.Drawing.Point(202, 119);
             this.manufacturerin.Name = "manufacturerin";
             this.manufacturerin.Size = new System.Drawing.Size(399, 22);
-            this.manufacturerin.TabIndex = 29;
+            this.manufacturerin.TabIndex = 2;
             // 
             // modelin
             // 
             this.modelin.Location = new System.Drawing.Point(202, 74);
             this.modelin.Name = "modelin";
             this.modelin.Size = new System.Drawing.Size(399, 22);
-            this.modelin.TabIndex = 28;
+            this.modelin.TabIndex = 1;
             // 
             // namein
             // 
             this.namein.Location = new System.Drawing.Point(202, 29);
             this.namein.Name = "namein";
             this.namein.Size = new System.Drawing.Size(398, 22);
-            this.namein.TabIndex = 42;
+            this.namein.TabIndex = 0;
             // 
             // label7
             // 
